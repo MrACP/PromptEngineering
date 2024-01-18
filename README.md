@@ -1,6 +1,6 @@
 # 👨‍💻 Prompt Engineering by AkshayParulekar
 ## 🤖 Awesome ChatGPT Prompts
-A surefire method for utilizing any Chat-based or Generative AI tool.
+A foolproof approach to making the most of any Chat-based or Generative AI tools. (for Non-programmers)
 
 
 ### 🔬 Welcome to the "Awesome ChatGPT Prompts" Repository!
