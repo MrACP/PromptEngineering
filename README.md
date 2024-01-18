@@ -1,2 +1,2 @@
-# PromptEngineering
-A proper way to use any Chat based AI tool.
+# 👨‍💻 Prompt Engineering by AkshayParulekar
+A definite way to use any Chat based/Generative AI tool.
