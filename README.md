@@ -1,4 +1,4 @@
-# 👨‍💻 Prompt Engineering by AkshayParulekar
+# 👨‍💻 Advanced Prompt Engineering by AkshayParulekar
 ## 🤖 Awesome ChatGPT Prompts
 A foolproof approach to making the most of any Chat-based or Generative AI tools. (for Non-programmers)
 
